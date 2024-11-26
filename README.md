@@ -13,8 +13,8 @@
 
 
 
-<p align="left">🎯 Goal:   Help in developing artificial intelligence that will serve society 🌱 
-           Creating my own start-up 🛠️</p> 
+<p align="left">🎯 Goal:   Help in developing artificial intelligence that will serve society 🌱</p> 
+ <!--          Creating my own start-up 🛠️</p> -->
 <p align="left">⚡ Motto: "In God we trust; all others must bring data." — William Edwards Deming 💡</p>
 
 <!--
