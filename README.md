@@ -1,4 +1,4 @@
-## 🌟Dzień dobry!✨
+## 🌟Dzień dobry!🎁
 ## 🏆Hello and Welcome 👋, I'm Adam Smulczyk 🤯🚀🎯
 
 <!--
