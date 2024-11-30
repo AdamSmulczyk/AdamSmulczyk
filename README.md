@@ -2,21 +2,21 @@
 ## 🏆Hello and Welcome 👋, I'm Adam Smulczyk 🤯🚀🎯
 
 <!--
-**AdamSmulczyk/AdamSmulczyk** is a ✨👨‍🏫🏆🎲 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AdamSmulczyk/AdamSmulczyk** is a ✨👨‍💻👨‍🏫🏆🎲💰🔮⚖️🎮💼🖥️🌍🛡️🧳🏋️🩺🥤🎁🎉🥞🎛️🌱 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h2 align="left">About me</h2>
-<p align="left">👨‍💻 I am a passionate data scientist </p>
-<p align="left">✨ I enjoy preparing predictive models and everything that is broadly understood as data science </p>
+<p align="left">🔮 I am a passionate data scientist </p>
+<p align="left">💰 I enjoy preparing predictive models and everything that is broadly understood as data science </p>
 <p align="left">🧪 I have been involved in data analysis and exploration for several years</p> 
 <p align="left">📚 I want to share my knowledge about data science, machine learning, and artificial intelligence</p> 
-<p>📈 I have advanced knowledge of building and training data models in Python based on Machine Learning libraries: NumPy, Pandas, Seaborn, Scikit-learn, PyTorch, TensorFlow / Keras, Matplotlib, Plotly, SciPy, NLTK,
+<p>👨‍🏫 I have advanced knowledge of building and training data models in Python based on Machine Learning libraries: NumPy, Pandas, Seaborn, Scikit-learn, PyTorch, TensorFlow / Keras, Matplotlib, Plotly, SciPy, NLTK,
 Optuna, XGBoost, LightgGBM, CatBoost, Transformers</p>
 <p align="left">📊 Enjoy reading my code and check out the available projects</p>
 <p align="left">🛠️ I’m currently working on [API project for Cryptocurrency]</p>
-<p align="left">📚 I’m currently learning [Data Leakage problem]</p>
+<p align="left">👨‍💻 I’m currently learning [Data Leakage problem]</p>
 
 
-<p align="left">🎯 Goal:   Help in developing artificial intelligence that will serve society 🌱</p> 
+<p align="left">🎯 Goal:  To constantly developing my ML skills and explore more and more complex data science topics every day. 🌍</p> 
  <!--          Creating my own start-up 🛠️</p> -->
 <p align="left">⚡ Motto: "In God we trust; all others must bring data." — William Edwards Deming 💡</p>
 <p align="left">☕ I'm coffeer</p>
