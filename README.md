@@ -2,7 +2,7 @@
 ## 🏆Hello and Welcome 👋, I'm Adam Smulczyk 🤯🚀🎯
 
 <!--
-**AdamSmulczyk/AdamSmulczyk** is a ✨👨‍💻👨‍🏫🏆🎲💰🔮⚖️🎮💼🖥️🌍🛡️🧳🏋️🩺🥤🎁🎉🥞🎛️🌱🧑‍💎🧐💾🚨🤝🚚 _special_✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AdamSmulczyk/AdamSmulczyk** is a ✨👨‍💻👨‍🏫🏆🎲💰🔮⚖️🎮💼🖥️🌍🛡️🧳🏋️🩺🥤🎁🎉🥞🎛️🌱🧑‍💎🧐💾🚨🤝🚚 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h2 align="left">About me</h2>
 <p align="left">🔮 I am a passionate data scientist </p>
