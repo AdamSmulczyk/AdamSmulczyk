@@ -26,15 +26,16 @@ _special_  ✨ repository because its `README.md` (this file) appears on your Gi
 <p>👨‍🏫 I have advanced knowledge of building and training data models in Python based on Machine Learning libraries: NumPy, Pandas, Seaborn, Scikit-learn, PyTorch, TensorFlow / Keras, Matplotlib, Plotly, SciPy, NLTK,
 Optuna, XGBoost, LightgGBM, CatBoost, Transformers</p>
 <p align="left">📊 Enjoy reading my code and check out the available projects</p>
-<p align="left">🛠️ I’m currently working on [API project for Cryptocurrency]</p>
-<p align="left">👨‍💻 I’m currently learning [Data Leakage problem]</p>
+<p align="left">🛠️ I’m currently working on [API project for cryptocurrency]</p>
+<p align="left">👨‍💻 I’m currently learning [data leakage problem]</p>
 
 
 <p align="left">🎯 Goal:  To constantly developing my ML skills and explore more and more complex data science topics every day. 🌍</p> 
  <!--          Creating my own start-up 🛠️</p> -->
 <p align="left">⚡ Motto: "In God we trust; all others must bring data." — William Edwards Deming 💡</p>
-<p align="left">☕ I'm coffeer</p>
 <!--
+<p align="left">☕ I'm coffeer</p>
+
 <p align="left"><br>📚 I'm currently learning ...<br>🎲 Fun fact: ...</p>
 <h2 align="left">I code with</h2>
 -->
