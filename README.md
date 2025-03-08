@@ -77,7 +77,7 @@ Optuna, XGBoost, LightgGBM, CatBoost, Transformers</p>
 
 
 <h3 align="left">Contact with me:</h3>
-🏆 Wisit my website  **https://sites.google.com/view/adam-smulczyk**
+🏆 Wisit my website  https://sites.google.com/view/adam-smulczyk
 
 📫 How to reach me?  **adam.smulczyk@gmail.com**
 <!--
