@@ -27,7 +27,7 @@ _special_  ✨ repository because its `README.md` (this file) appears on your Gi
 Optuna, XGBoost, LightgGBM, CatBoost, Transformers</p>
 <p align="left">📊 Enjoy reading my code and check out the available projects</p>
 <p align="left">🛠️ I’m currently working on [API project for cryptocurrency]</p>
-<p align="left">👨‍💻 I’m currently learning [data leakage problem]</p>
+<p align="left">👨‍💻 I’m currently learning [automatization process]</p>
 
 
 <p align="left">🎯 Goal:  To constantly developing my ML skills and explore more and more complex data science topics every day. 🌍</p> 
@@ -77,7 +77,7 @@ Optuna, XGBoost, LightgGBM, CatBoost, Transformers</p>
 
 
 <h3 align="left">Contact with me:</h3>
-🏆 Wisit my website
+🏆 Wisit my website  **https://sites.google.com/view/adam-smulczyk**
 
 📫 How to reach me?  **adam.smulczyk@gmail.com**
 <!--
